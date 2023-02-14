@@ -1,6 +1,10 @@
 ---
 title: "Summer"
-author: "Summer Harper"
-date: "2023-02-09"
 output: html_document
 ---
+
+## Here are a few interesting facts about Summer: 
+* She is a senior studying Environment and Sustainability in CALS. 
+* She is doing her Bachelor's thesis on non-structural carbohydrate storage dynamics in Red Oaks. 
+* Most nights you can find summer at the climbing gym. 
+* Summer *hates* bananas more than anything ever. (Yup that includes banana bread...)

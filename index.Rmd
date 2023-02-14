@@ -1,6 +1,12 @@
 ---
-title: "index"
-author: "Summer Harper"
+title: "Practicing Collaboration!"
+author: "Summer Harper and Luke Arnce"
 date: "2023-02-09"
 output: html_document
 ---
+## Collaboration with GitHub
+
+```{r, echo = FALSE, fig.cap = "When working with many people, it is essential that consistency is maintained throughout the group's workflows. GitHub can help us make fewer mistakes and track everything everyone has ever done!"}
+knitr::include_graphics("https://blog.vantagecircle.com/content/images/2020/08/teamwork-and-team-building.png")
+
+```
