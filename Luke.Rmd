@@ -1,0 +1,13 @@
+---
+title: "Luke"
+output: html_document
+date: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I can't stand up very fast  
+* I have a hitchhiker's thumb  
+* I'm glad Kansas City won the Superbowl  
